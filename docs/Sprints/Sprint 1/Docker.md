@@ -1,4 +1,4 @@
-## Docker Installation
+# Docker Installation
 
 Remote server connection from Termius. The commands for the installation depend on the server's OS. Run this command into the Termius terminal to identify the server's OS.
 
